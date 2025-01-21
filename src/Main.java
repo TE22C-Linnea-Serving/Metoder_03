@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
 
     Metoder met = new Metoder();
-    met.GetChoice("Hej", "Nej", "Test");
 
 
     }
